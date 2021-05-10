@@ -1,5 +1,8 @@
 ## FaisaSan
-Hello, my name is FaisaSan. I am a Discord bot developer. I learned about a programming that I know, I learned about this programming so I can understand about it.
+
+<p align="center"><img width="250" src="https://media3.giphy.com/media/FeVg8ViEczcxG/giphy.gif></p>
+
+<h4 align="center"><samp>Hello, my name is FaisaSan. I am a Discord bot developer. I learned about a programming that I know, I learned about this programming so I can understand about it.</samp></h4>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=justfaisa)
 ## My Discord
