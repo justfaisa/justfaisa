@@ -8,7 +8,9 @@
 ## My Discord
 ![Discord](https://discord.c99.nl/widget/theme-3/784743250791104512.png)
 ## Github Stats
-[![FaisaSan github stats](https://github-readme-stats.vercel.app/api?username=justfaisa&count_private=true&show_icons=true&hide_border=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&langs_count=8&layout=compact&hide_border=true)](https://github.com/justfaisa)
+[![FaisaSan Github Stats](https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
 ## What i Use
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
