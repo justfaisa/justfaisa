@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://i.imgur.com/vfYuufN.gif"></div>
 
-<h4 align="center"><samp>Hello, my name is FaisaSan, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>.I learned about this programming so I can understand about it.</samp></h4>
+<h4 align="center"><samp>Hello, my name is FaisaSan, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>. I learned about this programming so I can understand about it.</samp></h4>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=justfaisa)
 ## My Discord
