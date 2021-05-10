@@ -10,7 +10,7 @@
 ## Github Stats
 [![Faisa Github Stats](https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight)
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)](https://github.com/justfaisa)
 ## What i Use
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
