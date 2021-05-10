@@ -1,14 +1,14 @@
-## FaisaSan
+## Faisa
 
 <div align="center"><img src="https://i.imgur.com/vfYuufN.gif"></div>
 
-<h4 align="center"><samp>Hello, my name is FaisaSan, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>. I learned about this programming so I can understand about it.</samp></h4>
+<h4 align="center"><samp>Hello, my name is Faisa, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>. I learned about programming so I can understand about it.</samp></h4>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=justfaisa)
 ## My Discord
 ![Discord](https://discord.c99.nl/widget/theme-3/784743250791104512.png)
 ## Github Stats
-[![FaisaSan Github Stats](https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight)
+[![Faisa Github Stats](https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)](https://github.com/badriian24)
 ## What i Use
