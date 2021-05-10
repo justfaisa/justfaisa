@@ -1,6 +1,6 @@
 ## FaisaSan
 
-<p align="center"><img src="https://media3.giphy.com/media/FeVg8ViEczcxG/giphy.gif width="250"></p>
+<div align="center"><img src="https://i.imgur.com/vfYuufN.gif"></div>
 
 <h4 align="center"><samp>Hello, my name is FaisaSan. I am a Discord bot developer. I learned about a programming that I know, I learned about this programming so I can understand about it.</samp></h4>
 
