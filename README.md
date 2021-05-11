@@ -1,4 +1,4 @@
-<h3 align="center">Faisa</h3>
+## Faisa
 
 <div align="center"><img src="https://i.imgur.com/vfYuufN.gif"></div>
 
@@ -6,13 +6,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justfaisa-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
-<h3 align="center">My Discord</h3>
+## My Discord
 <img src="https://discord.c99.nl/widget/theme-3/784743250791104512.png">
-<h3 align="center">Github Stats</h3>
+
+## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight">
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight">
-<h3 align="center">What i Use</h3>
+<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight">
+
+## What i Use
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
@@ -25,17 +27,8 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
 
-<h3 align="center">Find Me</h3>
+## Find Me
 <p align="center"><a href="https://github.com/justfaisa" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://discord.com/users/784743250791104512" target="_blank"><img alt="Faris Daffa#0001" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://twitter.com/kyotakasan" target="_blank"><img alt="@Faris0520" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://instagram.com/fxsann" target="_blank"><img alt="@farrr.ss" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
-
-<h3 align="center">Knowledge</h3>
-    <img align="center" src="https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000">
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-    <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-    <img align="center" alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-    <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-     
