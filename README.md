@@ -4,7 +4,8 @@
 
 <h4 align="center"><samp>Hello, my name is Faisa, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>. I learned about programming so I can understand about it.</samp></h4>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=justfaisa)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=justfaisa-ops-cyber" alt="sujal-ops-cyber" /> </p>
+
 ## My Discord
 ![Discord](https://discord.c99.nl/widget/theme-3/784743250791104512.png)
 ## Github Stats
