@@ -24,7 +24,12 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/-VisualStudio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
   </details>
-  <br>
+
+## Find Me
+<p align="center"><a href="https://github.com/justfaisa" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://discord.com/users/695817459206324265" target="_blank"><img alt="Faris Daffa#0001" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href="https://twitter.com/kyotakasan" target="_blank"><img alt="@Faris0520" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://instagram.com/fxsann" target="_blank"><img alt="@farrr.ss" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
