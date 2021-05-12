@@ -12,7 +12,11 @@
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight">
 <br />
-<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=justfaisa)  
+
 
 ## What i Use
 <p>
