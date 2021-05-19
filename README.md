@@ -18,6 +18,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=justfaisa)  
 
+## Listening To Spotify 🎧
+[<img src="https://iyah.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/oset9b84oa2i1zt1qw5a6ixkt)
+
 ## What i Use
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
