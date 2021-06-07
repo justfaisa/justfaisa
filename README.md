@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justfaisa-ops-cyber" alt="sujal-ops-cyber" /> </p>
 
 ## My Discord
-<img src="https://discord.c99.nl/widget/theme-3/784743250791104512.png">
+<img src="https://discord.c99.nl/widget/theme-2/784743250791104512.png">
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=justfaisa&show_icons=true&theme=tokyonight">
