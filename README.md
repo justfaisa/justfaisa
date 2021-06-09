@@ -14,9 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=justfaisa)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=justfaisa)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=justfaisa&theme=dracula)
 
 ## What i Use
 <p>
