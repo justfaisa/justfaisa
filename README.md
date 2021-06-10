@@ -14,7 +14,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=justfaisa&theme=dracula)
+![](https://github-readme-streak-stats.herokuapp.com/?user=justfaisa&theme=tokyonight)
 
 ## What i Use
 <p>
