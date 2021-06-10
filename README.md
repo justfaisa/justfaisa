@@ -1,6 +1,6 @@
 ## Faisa
 
-<div align="center"><img src="https://i.imgur.com/vfYuufN.gif"></div>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/851382315560337458/852379281434869780/Anime_gifs.gif"></div>
 
 <h4 align="center"><samp>Hello, my name is Faisa, from <a href="https://en.wikipedia.org/wiki/Indonesia">Indonesia</a></b>. I learned about programming so I can understand about it.</samp></h4>
 
