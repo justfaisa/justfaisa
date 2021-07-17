@@ -19,3 +19,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justfaisa&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/>
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/> 
+<p><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=justfaisa&theme=dracula&count_private=true"></div></p>
