@@ -16,8 +16,5 @@
 
 ---  
 <h3 align="center">Github Stats</h3>
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=justfaisa&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true"/>
-<div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true"/> 
-<p><div align="center"><img src="https://github-profile-trophy.vercel.app/?username=justfaisa&theme=dracula&count_private=true"></div></p>
+
+![Metrics](https://metrics.lecoq.io/justfaisa?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&lines=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&followup.sections=repositories&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FJakarta)
