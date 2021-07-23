@@ -18,5 +18,3 @@
 <h3 align="center">GitHub Trophy</h3>
 
 <img src="https://github-profile-trophy.vercel.app/?username=justfaisa&theme=monokai&column=7&no-frame=true">
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/784743250791104512)](https://discord.com/users/784743250791104512)
