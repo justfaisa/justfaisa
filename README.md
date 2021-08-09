@@ -5,4 +5,6 @@ Hello my name is Faisa from <a href="https://id.m.wikipedia.org/wiki/Indonesia">
 <p align="center"><b><u><i>Cringe</i></u></b></p>
 
 # Github Stats
-![Faisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=justfaisa&include_all_commits=true&theme=dark&show_icons=true)
+![Faisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=justfaisa&include_all_commits=true&theme=tokyonight&show_icons=true)
+<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&show_icons=true&theme=tokyonight&langs_count=8&layout=compact)
