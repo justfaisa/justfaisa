@@ -1,5 +1,5 @@
 <h1>Hello my name is Faisa from <a href="https://id.m.wikipedia.org/wiki/Indonesia">Indonesia</a></h1>
-<p align="center"><b>12 y.o junior highschool students</b></p>
+<p align="center"><b>13 y.o junior highschool students</b></p>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/784743250791104512.png)
 ![GithubTopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=justfaisa&layout=compact&theme=tokyonight&langs_count=10)
