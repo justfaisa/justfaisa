@@ -1,5 +1,4 @@
 <h1>Hello my name is Faisa from <a href="https://id.m.wikipedia.org/wiki/Indonesia">Indonesia</a></h1>
-<i><p align="center">13 y.o junior highschool students</p></i>
 
 ![Discord](https://discord.c99.nl/widget/theme-2/784743250791104512.png)
 
